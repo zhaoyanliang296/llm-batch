@@ -1,0 +1,4 @@
+{"id": "1", "prompt": "Summarise the plot of Hamlet in two sentences."}
+{"id": "2", "prompt": "List three household uses for baking soda."}
+{"id": "3", "prompt": "Explain rate limiting to a new engineer.", "max_tokens": 200}
+{"id": "4", "prompt": "用一句话解释什么是幂等性。", "model": "gpt-4o"}
